@@ -76,24 +76,7 @@
         ::before {
             box-sizing: border-box
         }
-        /* .pattern.bottom {
-            bottom: -10px;
-            transform: rotate(
-        180deg
-        );
-        }
-        .pattern{
-            position: absolute;
-            bottom: 0;
-            width: 100%;
-            background-repeat: repeat-x;
-            background-position: bottom;
-            background-size: 1450px 160px;
-            height: 0;
-            padding: 0;
-            padding-bottom: 140px;
-            /* background-color: yellow; */
-        } */
+        
 
         html {
             font-family: sans-serif;
