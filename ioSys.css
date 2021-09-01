@@ -75,7 +75,7 @@
         ::before {
             box-sizing: border-box
         }
-        .pattern.bottom {
+        /* .pattern.bottom {
             bottom: -10px;
             transform: rotate(
         180deg
@@ -85,7 +85,6 @@
             position: absolute;
             bottom: 0;
             width: 100%;
-            background-image: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMjg0cHgiIGhlaWdodD0iMjRweCIgdmlld0JveD0iMCAwIDI4NCAyNCIgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj4KICAgIDwhLS0gR2VuZXJhdG9yOiBTa2V0Y2ggNjIgKDkxMzkwKSAtIGh0dHBzOi8vc2tldGNoLmNvbSAtLT4KICAgIDx0aXRsZT5QYXRoPC90aXRsZT4KICAgIDxkZXNjPkNyZWF0ZWQgd2l0aCBTa2V0Y2guPC9kZXNjPgogICAgPGcgaWQ9IlBhZ2UtMSIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCI+CiAgICAgICAgPGcgaWQ9Ikdyb3VwIiBmaWxsPSIjRkZGRkZGIiBmaWxsLXJ1bGU9Im5vbnplcm8iPgogICAgICAgICAgICA8cGF0aCBkPSJNMjg0LDExLjA4NzY5MDQgQzI4NCwxMS4wODc2OTA0IDI3Ni42ODcxMjUsMTQuMTExNjA2IDI2OS45NzUzMDksMTQuNDEzOTk3NiBDMjYzLjE2MzMxNiwxNC43MTYzODkxIDI1Ny4zNTMwODYsMTQuNDEzOTk3NiAyNDkuMDM4NDQ4LDEyLjkwMjAzOTggQzIzNy43MTg1MTksMTAuODg2MDk2MSAyMTUuODgwMDcxLDIuNzIxNTI0MDIgMjA0LjI1OTYxMiw3LjE1NjYwMDE5IEMxOTIuNjM5MTUzLDExLjU5MTY3NjQgMTkyLjEzODI3MiwxMS43OTMyNzA3IDE4Ni4yMjc4NjYsMTQuNjE1NTkxOSBDMTc5LjYxNjIyNiwxNy44NDExMDE5IDE2Ni4xOTI1OTMsMjQuMjkyMTIxOCAxNDkuNTYzMzE2LDIzLjk4OTczMDIgQzEzMS44MzIwOTksMjMuNjg3MzM4NyA5OS42NzU0ODUsNy4yNTczOTczNyA4Ni40NTIyMDQ2LDguMDYzNzc0ODYgQzg1LjA0OTczNTQsOC4xNjQ1NzIwNSA3OS44NDA1NjQ0LDguODcwMTUyMzUgNzUuOTMzNjg2MSwxMC4wNzk3MTg2IEM3Mi4xMjY5ODQxLDExLjI4OTI4NDggNjYuNTE3MTA3NiwxMy45MTAwMTE2IDU4LjkwMzcwMzcsMTQuODE3MTg2MyBDNTUuNjk4MDYsMTUuMjIwMzc1IDUwLjU4OTA2NTMsMTUuOTI1OTU1MyA0NC42Nzg2NTk2LDE1LjcyNDM2MSBDNDMuMTc2MDE0MSwxNS42MjM1NjM4IDM4LjM2NzU0ODUsMTUuMzIxMTcyMiAzMi42NTc0OTU2LDE0LjExMTYwNiBDMjYuOTQ3NDQyNywxMi45MDIwMzk4IDIxLjYzODA5NTIsMTAuOTg2ODkzMiAxNi44Mjk2Mjk2LDEwLjM4MjExMDEgQzEwLjExNjkxMzQsOS42NjA3NzUzNSA1LjAxNTM2MzgyLDEwLjA5MTMxMTMgMi4yNjk3NDA4NSwxMC40ODAyNjggQzAuNzk1MDQ2NDIxLDEwLjY4OTE3OTUgMCwxMS4wODc2OTA0IDAsMTEuMDg3NjkwNCBMMCwwIEwyODQsMCBMMjg0LDExLjA4NzY5MDQgWiIgaWQ9IlBhdGgiPjwvcGF0aD4KICAgICAgICA8L2c+CiAgICA8L2c+Cjwvc3ZnPg==);
             background-repeat: repeat-x;
             background-position: bottom;
             background-size: 1450px 160px;
@@ -93,7 +92,7 @@
             padding: 0;
             padding-bottom: 140px;
             /* background-color: yellow; */
-        }
+        } */
 
         html {
             font-family: sans-serif;
